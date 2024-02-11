@@ -2,6 +2,8 @@
 
 ### Tools used: Tableau, Python, Jupyter Notebook
 
+Interact with the final dashboard here: [Tableau Public dashboard](https://public.tableau.com/views/LondonBikeSharingDashboard_17076682500710/LondonBikeRidesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ### Project workflow:
 
 - Import and download dataset from kaggle
@@ -33,9 +35,3 @@ The most important visualization created is the 'Moving Average' visualization w
 
 Also, I created a heatmap for 'Temperature vs Wind Speed' visualization which is filtered by the selection in 'Moving Average' visualization. It also contain the same tootltip as in 'Moving Average'.
   ![Heatmap](images/heatmap.png)
-
-## Final Dashboard
-
- ![Check out the final dashboard!](images/final_dashboard.png)
-
-Interact with the final dashboard here: [Tableau Public dashboard](https://public.tableau.com/views/LondonBikeSharingDashboard_17076682500710/LondonBikeRidesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
