@@ -5,7 +5,7 @@
 Interact with the final dashboard here: [Tableau Public dashboard](https://public.tableau.com/views/LondonBikeSharingDashboard_17076682500710/LondonBikeRidesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Problem Statement:
-Perform data pre-processing and create a dynamic dashboard to visulaize the data for stakeholders to understand and interpret the data and make business decisions.
+Perform data pre-processing and create a dynamic dashboard to visualize the dataset for stakeholders to better understand and interpret the data and make business decisions.
 
 #### Content
 The data is acquired from 3 sources:
